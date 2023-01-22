@@ -3,7 +3,7 @@ package queue
 import (
 	"errors"
 
-	"github.com/kevinu2/shm/model"
+	"github.com/solpipe/shm/model"
 )
 
 // 一个生产者 & 一个消费者的情况之下

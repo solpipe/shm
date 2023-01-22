@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/kevinu2/shm"
-	"github.com/kevinu2/shm/shmdata"
+	"github.com/solpipe/shm"
+	"github.com/solpipe/shm/shmdata"
 	"log"
 )
 

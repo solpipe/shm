@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/kevinu2/shm"
+	"github.com/solpipe/shm"
 )
 
 type LogItem struct {

@@ -2,7 +2,7 @@ package shm
 
 import (
 	"fmt"
-	"github.com/kevinu2/shm/model"
+	"github.com/solpipe/shm/model"
 	"reflect"
 	"syscall"
 	"unsafe"

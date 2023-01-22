@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"encoding/json"
 	"fmt"
-	"github.com/kevinu2/shm/ishm"
+	"github.com/solpipe/shm/ishm"
 	"log"
 	"math/rand"
 	"unsafe"

@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/kevinu2/shm/model"
+	"github.com/solpipe/shm/model"
 )
 
 type MultiQueue struct {

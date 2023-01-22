@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/gob"
 
-	"github.com/kevinu2/shm/model"
-	"github.com/kevinu2/shm/queue"
+	"github.com/solpipe/shm/model"
+	"github.com/solpipe/shm/queue"
 )
 
 type ConstructorFunc func() interface{}

@@ -1,7 +1,7 @@
 package shm
 
 import (
-	"github.com/kevinu2/shm/model"
+	"github.com/solpipe/shm/model"
 	"os"
 	"syscall"
 	"unsafe"

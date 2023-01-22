@@ -1,3 +1,3 @@
-module github.com/kevinu2/shm
+module github.com/solpipe/shm
 
-go 1.13
+go 1.18

@@ -5,7 +5,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/kevinu2/shm"
+	"github.com/solpipe/shm"
 )
 
 // LogItem defines one log record
